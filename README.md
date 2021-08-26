@@ -10,3 +10,7 @@ Projects:
 [Simple Chatty Bot](https://github.com/Maxxx873/hyperskill-SimpleChattyBot)
 
 [Coffee Machine](https://github.com/Maxxx873/Coffee-Machine)
+
+[Number Base Converter](https://github.com/Maxxx873/hyperskill-Number-Base-Converter)
+
+
