@@ -3,9 +3,9 @@
 
 Projects:
 
-[Encryption-Decryption](https://github.com/Maxxx873/hyperskill-EncryptionDecryption/)
-
 [Cinema Room REST Service](https://github.com/Maxxx873/Cinema-Room-REST-Service/)
+
+[Encryption-Decryption](https://github.com/Maxxx873/hyperskill-EncryptionDecryption/)
 
 [Simple Chatty Bot](https://github.com/Maxxx873/hyperskill-SimpleChattyBot)
 
