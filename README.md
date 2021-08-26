@@ -1,5 +1,5 @@
-# HyperSkill Projects (Java)
-## Contains Java projects produced on Hyperskill.
+## HyperSkill Projects (Java)
+### Contains Java projects produced on Hyperskill.
 
 Projects
 
