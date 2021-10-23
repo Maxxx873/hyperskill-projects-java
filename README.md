@@ -3,6 +3,8 @@
 
 Projects:
 
+[Music Advisor](https://github.com/Maxxx873/hyperskill-Music-Advisor)
+
 [Cinema Room REST Service](https://github.com/Maxxx873/Cinema-Room-REST-Service/)
 
 [Encryption-Decryption](https://github.com/Maxxx873/hyperskill-EncryptionDecryption/)
