@@ -19,6 +19,8 @@ Projects:
 
 [Simple Chatty Bot](https://github.com/Maxxx873/hyperskill-SimpleChattyBot)
 
+[HTML parser](https://github.com/Maxxx873/hyperskill-html-parser)
+
 
 
 
